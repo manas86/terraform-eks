@@ -51,7 +51,7 @@ kubectl get nodes
 
 ## Simple test
 ```
-kubectl run helloworld --image=https://k8s.gcr.io/echoserver:1.4 --port=8080
+kubectl run helloworld --image=k8s.gcr.io/echoserver:1.4 --port=8080
 kubctl get deployments
 kubectl get pods
 ```
