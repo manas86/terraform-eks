@@ -1,4 +1,4 @@
-# Terraform-eks 
+# Terraform-EKS
 # Demo
 
 # Setting up AWS EKS (Hosted Kubernetes)
