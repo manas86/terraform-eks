@@ -25,6 +25,7 @@ sudo mv heptio-authenticator-aws_0.3.0_linux_amd64 /usr/local/bin/heptio-authent
 Choose your region. EKS is not available in every region, use the Region Table to check whether your region is supported: https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/
 
 Make changes in providers.tf accordingly (region, optionally profile)
+Right now the region is "eu-west-1"
 
 ## Terraform apply
 ```
